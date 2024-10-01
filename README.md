@@ -12,6 +12,6 @@ Project made for  booking and schedule treatment
 
 パスワード：admin123
 
-テスターアカウント:
+テスターアカウント:tester01@gmail.com
 
-アドレス：admin パスワード：
+パスワード：tester123
