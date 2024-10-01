@@ -1,0 +1,44 @@
+span.title{
+    color: #b65f7f;
+    font-size: 35px;
+}
+
+span.subtitle{
+    color: #4c5895;
+    font-size: 30px;
+}
+
+.doctorImg{
+    width: 80%; 
+    height: 300px;
+}
+
+.doctorImg img{
+    float: left;
+    width: 300px; 
+    height: 300px;
+    overflow: hidden;
+}
+
+.headerRow{
+    display: flex;
+    color: green;
+    font-size: 38px;
+}
+
+.row{
+    padding: 10px;
+    border:  3px solid black;
+    margin: 10px;
+}
+.row:hover{
+    background-color: aquamarine;
+}
+
+
+#footer{
+    background-color: rgb(206, 255, 186);
+    color: red;
+    font-size: 38px;
+}
+
